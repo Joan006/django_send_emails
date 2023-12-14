@@ -1,0 +1,2 @@
+django==5.0
+django-tailwind==3.7.0
